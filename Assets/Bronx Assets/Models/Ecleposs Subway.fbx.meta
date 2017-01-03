@@ -151,6 +151,10 @@ ModelImporter:
     100286: Station_MeshPart1
     100288: Plane_1_MeshPart0
     100290: Plane_1_MeshPart1
+    100292: Camera
+    100294: Cube
+    100296: Lamp
+    100298: Plane_1
     400000: Box01
     400002: Box02
     400004: Box03
@@ -297,6 +301,10 @@ ModelImporter:
     400286: Station_MeshPart1
     400288: Plane_1_MeshPart0
     400290: Plane_1_MeshPart1
+    400292: Camera
+    400294: Cube
+    400296: Lamp
+    400298: Plane_1
     2300000: Box01
     2300002: Box02
     2300004: Box03
@@ -441,6 +449,8 @@ ModelImporter:
     2300282: Station_MeshPart1
     2300284: Plane_1_MeshPart0
     2300286: Plane_1_MeshPart1
+    2300288: Cube
+    2300290: Plane_1
     3300000: Box01
     3300002: Box02
     3300004: Box03
@@ -585,6 +595,8 @@ ModelImporter:
     3300282: Station_MeshPart1
     3300284: Plane_1_MeshPart0
     3300286: Plane_1_MeshPart1
+    3300288: Cube
+    3300290: Plane_1
     4300000: Line05
     4300002: Cylinder48
     4300004: Line47
@@ -729,6 +741,8 @@ ModelImporter:
     4300282: Station_MeshPart1
     4300284: Plane_1_MeshPart0
     4300286: Plane_1_MeshPart1
+    4300288: Plane_1
+    4300290: Cube
   materials:
     importMaterials: 1
     materialName: 0
